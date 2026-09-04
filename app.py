@@ -314,5 +314,5 @@ def vertical_chart(series, title, ylabel):
 st.title("🇮🇳 MP Fund Analytics Dashboard")
 
 st.caption(
-    "Data-driven analysis of Member of Parliament "
+    "Data-driven analysis of Member of Parliament ")
    
